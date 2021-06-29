@@ -2,23 +2,25 @@
 <section>
 <header class="text-gray-600 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-    <nav class="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto">
+    <nav class="flex lg:w-2/5 flex-wrap items-center text-base font-semibold md:ml-auto">
       <a class="mr-5 hover:text-gray-900" href="/">Home</a>
       <a class="mr-5 hover:text-gray-900" href="about">About</a>
       <a class="mr-5 hover:text-gray-900" href="projects">Projects</a>
       <a class="hover:text-gray-900" href="contact">Contact</a>
     </nav>
-    <a class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
+    <a href="/" class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
       
       <span class="ml-3 font-bold text-3xl">Harrison Kugler</span>
     </a>
     <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
     
-      <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Resume
-        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
-          <path d="M5 12h14M12 5l7 7-7 7"></path>
+     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded font-bold text-base mt-4 md:mt-0">Schedule A Call
+        <svg xmlns="http://www.w3.org/2000/svg" class="mx-2 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
         </svg>
       </button>
+    </a>    
+
     </div>
   </div>
 </header>
