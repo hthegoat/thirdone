@@ -1,7 +1,7 @@
 <template>
     <section class="text-gray-600 body-font">
-    <div class="text-center mt-10 mb-2">
-      <h1 class="sm:text-3xl text-2xl font-medium text-center title-font text-gray-900 mb-4">You're In Good Hands</h1>
+    <div class="text-center mt-10 py-12 mb-2">
+      <h1 class="sm:text-3xl text-2xl font-bold text-center title-font text-gray-900 mb-4">You're In Good Hands 🤝</h1>
     </div>
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4">
@@ -56,7 +56,7 @@
     </div>
   </div>
   <div class="container px-5 py-1 mx-auto">
-    <h1 class="text-3xl font-medium title-font text-gray-900 mb-12 text-center">Testimonials</h1>
+    <h1 class="text-3xl font-bold title-font text-gray-900 mb-12 text-center">Testimonials 💭</h1>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/2 w-full">
         <div class="h-full bg-gray-100 p-8 rounded">
