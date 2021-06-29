@@ -1,0 +1,49 @@
+<template lang="">
+    <section class="text-gray-600 body-font">
+  <div class="container px-5 py-6 mx-auto">
+ 
+    <div class="flex flex-wrap -m-4">
+      <div class="xl:w-1/4 md:w-1/2 p-4">
+        <div class="bg-gray-100 p-6 rounded-lg">
+          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://i.ibb.co/5KcC3dB/IMG-4774.jpg" alt="content">
+          <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">Entrepreneur</h3>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Entrepreneur</h2>
+          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+        </div>
+      </div>
+      <div class="xl:w-1/4 md:w-1/2 p-4">
+        <div class="bg-gray-100 p-6 rounded-lg">
+          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://i.ibb.co/NLFcnH0/DSC4875.jpg" alt="content">
+          <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">Surfing</h3>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Cryptocurrency</h2>
+          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+        </div>
+      </div>
+      <div class="xl:w-1/4 md:w-1/2 p-4">
+        <div class="bg-gray-100 p-6 rounded-lg">
+          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content">
+          <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">Cryptocurrency</h3>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Programming</h2>
+          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+        </div>
+      </div>
+      <div class="xl:w-1/4 md:w-1/2 p-4">
+        <div class="bg-gray-100 p-6 rounded-lg">
+          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://i.ibb.co/YDyCvnb/sucker.jpg" alt="content">
+          <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">Surfing</h3>
+          <h2 class="text-lg text-gray-900 font-medium title-font mb-4">San Francisco</h2>
+          <p class="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</template>
+<script>
+export default {
+    
+}
+</script>
+<style lang="">
+    
+</style>
