@@ -39,7 +39,7 @@
         </div>
        
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-          <a class="text-indigo-500">harrison@harrisonkugler.com</a>
+          <a class="text-indigo-500" href="mailto:harrison@harrisonkugler.com" target="_blank">harrison@harrisonkugler.com</a>
          
           
         </div>
