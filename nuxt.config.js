@@ -3,7 +3,7 @@ export default {
   target: 'static',
 
   googleAnalytics: {
-    id: 'G-2L4QLCQEB1'
+    id: 'UA-135455452-6'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -34,7 +34,8 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: ['@nuxtjs/tailwindcss'],
+  buildModules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-analytics'
+],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [ '@nuxtjs/google-analytics' ],
