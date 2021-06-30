@@ -45,8 +45,8 @@
       
     </div>
    <div class="py-12 flex justify-center">
-    <a href="contact" target="_blank"><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 mx-3 focus:outline-none hover:bg-indigo-600 rounded text-lg">Hire Me</button></a>
-    <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank">    <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Schedule A Call</button></a>
+    <a href="contact"><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 mx-3 focus:outline-none font-bold hover:bg-indigo-600 rounded text-lg">Hire Me </button></a>
+    <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank">    <button class="inline-flex text-white font-bold bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Schedule A Call</button></a>
        
       </div>
   </div>

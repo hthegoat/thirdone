@@ -25,7 +25,7 @@
           <img alt="gallery" class="w-full object-cover h-full object-center block" src="~/assets/about/fam.jpg">
         </div>
         <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full  h-full object-right block" src="~/assets/about/fish.jpg">
+          <img alt="gallery" class="w-full  h-full object-right block" src="~/assets/about/surf2.jpg">
         </div>
       </div>
     </div>
