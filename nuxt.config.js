@@ -2,6 +2,10 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  googleAnalytics: {
+    id: 'G-2L4QLCQEB1'
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Harrison Kugler',
@@ -15,6 +19,9 @@ export default {
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [{
+   
+    }]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -30,7 +37,7 @@ export default {
   buildModules: ['@nuxtjs/tailwindcss'],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [],
+  modules: [ '@nuxtjs/google-analytics' ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {}
