@@ -3,10 +3,10 @@
 <header class="text-gray-600 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <nav class="flex lg:w-2/5 flex-wrap items-center text-base font-semibold md:ml-auto">
-      <a class="mr-5 hover:text-gray-900" href="/">Home</a>
-      <a class="mr-5 hover:text-gray-900" href="about">About</a>
-      <a class="mr-5 hover:text-gray-900" href="projects">Projects</a>
-      <a class="hover:text-gray-900" href="contact">Contact</a>
+      <NuxtLink class="mr-5 hover:text-gray-900" to="/">Home</NuxtLink>
+      <NuxtLink class="mr-5 hover:text-gray-900" to="about">About</NuxtLink>
+      <NuxtLink class="mr-5 hover:text-gray-900" to="projects">Projects</NuxtLink>
+      <NuxtLink class="hover:text-gray-900" to="contact">Contact</NuxtLink>
     </nav>
     <a href="/" class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
       

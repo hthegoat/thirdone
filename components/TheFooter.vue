@@ -23,16 +23,16 @@
         <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Site Navigation</h2>
         <nav class="list-none mb-10">
           <li>
-            <a class="text-gray-600 hover:text-gray-800" href="/">Home</a>
+            <NuxtLink class="text-gray-600 hover:text-gray-800" to="/">Home</NuxtLink>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800" href="about">About</a>
+            <NuxtLink class="text-gray-600 hover:text-gray-800" to="about">About</NuxtLink>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800" href="projects">Projects</a>
+            <NuxtLink class="text-gray-600 hover:text-gray-800" to="projects">Projects</NuxtLink>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800" href="contact">Contact</a>
+            <NuxtLink class="text-gray-600 hover:text-gray-800" to="contact">Contact</NuxtLink>
           </li>
         </nav>
       </div>
