@@ -3,7 +3,7 @@
   <div class="container px-5 py-24 mx-auto flex flex-col">
     <div class="lg:w-4/6 mx-auto">
       <div class="rounded-lg h-100 overflow-hidden">
-        <img alt="content" class="object-cover object-center h-full w-full" src="https://images.unsplash.com/photo-1585923279875-9b53a6592f06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80">
+        <img alt="content" class="object-cover object-center h-full w-full" src="~/assets/about/hero2.jpg">
       </div>
       <div class="flex flex-col sm:flex-row mt-10">
         <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8">

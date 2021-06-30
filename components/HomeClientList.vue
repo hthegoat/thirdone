@@ -7,7 +7,7 @@
     <div class="flex flex-wrap -m-4">
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-fit object-center w-full h-full block" src="https://f2r8m4v9.stackpathcdn.com/wp-content/uploads/2018/07/bth-logo-final.png?x29850">
+          <img alt="ecommerce" class="object-fit object-center w-full h-full block" src="~/assets/bth.png">
         </a>
      
       </div>
@@ -19,37 +19,37 @@
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-fit object-center w-full h-full block" src="https://ecosystemsnj.com/wp-content/uploads/2019/12/Group-19462.png">
+          <img alt="ecommerce" class="object-fit object-center w-full h-full block" src="~/assets/eco.png">
         </a>
       
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="https://s3.amazonaws.com/seat-engine-files-production/styles/logos/310/original/sf-logo-on-transparent-2018-web-size-large.png?1524357330">
+          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="~/assets/sf.png">
         </a>
       
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="https://bengomez.me/AERWebsite/Assets/AER_Logo.png">
+          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="~/assets/aer.png">
         </a>
         
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="https://irp-cdn.multiscreensite.com/selfgrowthcom/cropped_10849606_dm-logo-image_ygX9_selfgrowth_sitewidepngpng.duda.lg.crp.png">
+          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="~/assets/sg.png">
         </a>
         
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="https://digitalax.xyz/images/favicon.png">
+          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="~/assets/digi.png">
         </a>
         
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="https://cdn.shopify.com/s/files/1/2452/4247/files/Revo-Logo-2-trace_410x.png?v=1517060017">
+          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="~/assets/revo.png">
         </a>
        
       </div>

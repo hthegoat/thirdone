@@ -9,7 +9,7 @@
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-         <a href="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view" target="_blank"> <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://i.ibb.co/gdwtC9Q/axemaster.jpg" alt="content">
+         <a href="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view" target="_blank"> <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/bthhome.jpg" alt="Harrison Kugler Case Study">
           <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">CASE STUDY</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Bury The Hatchet </h2>
           <p class="leading-relaxed text-base">A Full Marketing Analysis</p>
@@ -18,7 +18,7 @@
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-        <a href="https://www.notion.so/hk93/Keystone-Case-Study-ca5db60e1d284b71842ab4aede10d4c9" target="_blank">  <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://i.ibb.co/RP6LzkD/168412935-2881821135426806-7230005200482607245-n.jpg" alt="content"> 
+        <a href="https://www.notion.so/hk93/Keystone-Case-Study-ca5db60e1d284b71842ab4aede10d4c9" target="_blank">  <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/keystone.jpg" alt="Harrison Kugler Case Study"> 
           <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">CASE STUDY</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Keystone Roofing</h2>
           <p class="leading-relaxed text-base">$7k spend for $110k+ Revenue Generated</p></a>
@@ -26,7 +26,7 @@
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <a href="https://www.notion.so/hk93/Stress-Factory-Case-Study-0e35a0bcae574c698a7e1eac4543a4f6" target="_blank"> <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://s3-media0.fl.yelpcdn.com/bphoto/g3rqMGOq3mKnib_CdSiC3Q/l.jpg" alt="content">
+          <a href="https://www.notion.so/hk93/Stress-Factory-Case-Study-0e35a0bcae574c698a7e1eac4543a4f6" target="_blank"> <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/stressfactory.jpeg" alt="Harrison Kugler Case Study">
           <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">Case Study</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Stress Factory Comedy Club</h2>
           <p class="leading-relaxed text-base">An ongoing project with Vinnie and team.</p></a>
