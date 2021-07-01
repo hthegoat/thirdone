@@ -55,7 +55,7 @@ export default {
       {
         hid: 'twitter:card',
         name: 'twitter:card',
-        content: '~/assets/hero2.jpg'
+        content: 'summary_large_image'
       },
       { hid: 'twitter:site', name: 'twitter:site', content: '@harrisonkugler' },
       {
@@ -77,7 +77,7 @@ export default {
       {
         hid: 'twitter:image',
         name: 'twitter:image',
-        content: '~/assets/hero2.jpg'
+        content: 'https://i.ibb.co/r2Rt78D/DSC0764-3.jpg'
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
