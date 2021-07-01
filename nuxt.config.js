@@ -38,12 +38,12 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: '~/assets/hero2.jpg'
+        content: 'https://i.ibb.co/r2Rt78D/DSC0764-3.jpg'
       },
       {
         hid: 'og:image:secure_url',
         property: 'og:image:secure_url',
-        content: '~/assets/hero2.jpg'
+        content: 'https://i.ibb.co/r2Rt78D/DSC0764-3.jpg'
       },
       {
         hid: 'og:image:alt',
