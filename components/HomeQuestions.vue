@@ -45,7 +45,7 @@
       
     </div>
    <div class="py-12 flex justify-center">
-    <a href="contact"><button class="transition transform duration-500 ease-in-out inline-flex text-black bg-gray-100 border-0 py-4 px-6 mx-3 focus:outline-none font-bold hover:-translate-y-1 hover:scale-110 hover:bg-indigo-600 hover:text-white rounded text-lg"><svg xmlns="http://www.w3.org/2000/svg" class="hover:animate-bounce  mx-2 my-1 h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+    <a href="contact"><button class="transition transform duration-500 ease-in-out inline-flex text-black bg-gray-100 border-0 py-4 px-6 mx-3 focus:outline-none font-bold hover:-translate-y-1 hover:scale-110 hover:bg-indigo-600 hover:text-white rounded text-lg"><svg xmlns="http://www.w3.org/2000/svg" class="animate-bounce hover:animate-none mx-2 my-1 h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
   <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd" />
 </svg> Hire Me  </button> </a>
     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank">    <button class="transition transform duration-500 ease-in-out inline-flex text-black bg-gray-100 font-bold border-0 py-4 px-6 focus:outline-none hover:bg-indigo-600 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-600 hover:text-white rounded text-lg"><svg xmlns="http://www.w3.org/2000/svg" class="animate-bounce mx-2 my-1 h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
