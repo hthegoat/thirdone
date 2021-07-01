@@ -10,12 +10,13 @@
     </nav>
     <a href="/" class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
       
-      <span class="ml-3 font-bold text-3xl">Harrison Kugler</span>
+      <span class="transition transform duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 ml-3 font-bold text-3xl">Harrison Kugler</span>
     </a>
     <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
     
-     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 hover:text-white rounded font-bold text-base mt-4 md:mt-0">Schedule A Call
-        <svg xmlns="http://www.w3.org/2000/svg" class="mx-2 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class="animate-pulse transition transform duration-500 ease-in-out inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 hover:-translate-y-1 hover:scale-110 hover:text-white rounded font-bold text-base mt-4 md:mt-0">Schedule A Call
+        <svg xmlns="http://www.w3.org/2000/svg" class="animate-pulse
+          mx-2 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
         </svg>
       </button>
@@ -35,5 +36,5 @@ export default {
 }
 </script>
 <style lang="">
-    
+
 </style>

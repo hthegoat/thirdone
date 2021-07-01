@@ -4,7 +4,7 @@
   <HomeQuestions />
    <HomeProjects />
   <HomeClientList />
- 
+ <HomeStack />
   <HomeContact />
 </div>
 </template>
