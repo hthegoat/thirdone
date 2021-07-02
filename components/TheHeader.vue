@@ -29,7 +29,7 @@
     </ul>
   </div>
     </div>
-     <a href="https//:calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class= "transition transform duration-500 ease-in-out inline-flex items-center bg-gray-100 dark:bg-gray-300 border-0 px-3 py-1 focus:outline-none hover:bg-indigo-600 hover:-translate-y-1 hover:scale-110 hover:text-white rounded font-bold text-base mt-4 md:mt-4">Schedule A Call
+     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class= "transition transform duration-500 ease-in-out inline-flex items-center bg-gray-100 dark:bg-gray-300 border-0 px-3 py-1 focus:outline-none hover:bg-indigo-600 hover:-translate-y-1 hover:scale-110 hover:text-white rounded font-bold text-base mt-4 md:mt-4">Schedule A Call
         <svg xmlns="http:www.w3.org/2000/svg" class="animate-pulse
           mx-2 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
