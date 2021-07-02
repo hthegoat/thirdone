@@ -59,7 +59,7 @@
     },
     data() {
       return {
-        colors: ['light', 'sepia']
+        colors: ['light', 'dark', 'sepia']
       }
     },
     methods: {
