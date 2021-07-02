@@ -89,8 +89,9 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: ['@/assets/main.css'],
 
+  
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
 
@@ -98,10 +99,10 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: ['@nuxtjs/tailwindcss'],
+  buildModules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [ '@nuxtjs/google-analytics' ],
+  modules: [ '@nuxtjs/google-analytics', '@nuxtjs/color-mode', '@nuxtjs/svg' ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {}

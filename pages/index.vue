@@ -1,5 +1,6 @@
 <template>
 <div>
+
 <HomeHero />
 <HomeQuestions />
 <HomeProjects />
@@ -12,7 +13,6 @@
 <script>
 
 
-  
   
 </script>
 

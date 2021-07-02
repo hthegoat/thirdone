@@ -8,7 +8,7 @@
       <h1 class="title-font dark:text-white sm:text-4xl text-3xl mb-4 font-bold text-gray-900">Are You Looking For A Professional 
         <br class="hidden lg:inline-block">Marketing Expert?
       </h1>
-      <p class="mb-8 leading-relaxed">I am a seasoned marketing professional with over $500k managed for my clients in the past three years. I have worked with clients in multiple industries and can tailor my approach to different industries.</p>
+      <p class="mb-8 leading-relaxed dark:text-white">I am a seasoned marketing professional with over $500k managed for my clients in the past three years. I have worked with clients in multiple industries and can tailor my approach to different industries.</p>
       
     </div>
   </div>
