@@ -1,4 +1,6 @@
 export default {
+
+  
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
@@ -8,6 +10,11 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
+
+
+// On page load or when changing themes, best to add inline in `head` to avoid FOUC
+
+
     title: 'Harrison Kugler',
     meta: [
       { charset: 'utf-8' },
