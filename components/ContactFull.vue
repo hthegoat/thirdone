@@ -1,53 +1,58 @@
 <template lang="">
     <section class="text-gray-600 body-font">
-  <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-    <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src="~/assets/contact.jpg">
-    <div class="text-center lg:w-2/3 w-full">
-      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900 dark:text-white">Thanks For Visiting</h1>
-      
-    </div>
-  </div>
-  <div class="container px-5 py-6 mx-auto">
-    <div class="flex flex-col text-center w-full mb-12">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 dark:text-white">Contact Me</h1>
-      
-    </div>
-    <form action="https://getform.io/f/2a956545-1194-4d2c-bfdd-72b9b157032e" method="POST">
+ <div class="flex max-w-md mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800 lg:max-w-4xl">
+        <div class="hidden bg-cover lg:block lg:w-1/2" style="background-image:url('https://i.ibb.co/W6yB1rz/DSC8565.jpg')"></div>
+        
+        <div class="w-full px-6 py-8 md:px-8 lg:w-1/2">
+            <h2 class="text-2xl font-semibold text-center text-gray-700 dark:text-white">Message Me</h2>
 
-    <div class="lg:w-1/2 md:w-2/3 mx-auto">
-      <div class="flex flex-wrap -m-2">
-        <div class="p-2 w-1/2">
-          <div class="relative">
-            <label for="name" class="leading-7 text-sm text-gray-600 dark:text-white">Name</label>
-            <input type="text" id="name" name="name" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
-          </div>
-        </div>
-        <div class="p-2 w-1/2">
-          <div class="relative">
-            <label for="email" class="leading-7 text-sm text-gray-600 dark:text-white">Email</label>
-            <input type="email" id="email" name="email" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
-          </div>
-        </div>
-        <div class="p-2 w-full">
-          <div class="relative">
-            <label for="message" class="leading-7 text-sm text-gray-600 dark:text-white">Message</label>
-            <textarea id="message" name="message" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
-          </div>
-        </div>
-        <div class="p-2 w-full">
-          <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 font-bold focus:outline-none hover:bg-indigo-600 rounded text-lg">Send It</button>
-        </div>
-       
-        <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-          <a class="text-indigo-500" href="mailto:harrison@harrisonkugler.com" target="_blank">harrison@harrisonkugler.com</a>
          
-          
-        </div>
-      </div>
-    </div>
-    </form>
-  </div>
 
+            
+            <div class="flex items-center justify-between mt-4">
+                <span class="w-1/5 border-b dark:border-gray-600 lg:w-1/4"></span>
+
+                <a href="#" class="text-xs text-center text-gray-500 uppercase dark:text-gray-400 hover:underline"></a>
+
+                <span class="w-1/5 border-b dark:border-gray-400 lg:w-1/4"></span>
+            </div>
+
+            <div class="mt-4">
+                <label class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-200" for="LoggingEmailAddress">Name</label>
+                <input id="LoggingEmailAddress" class="block w-full px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-500 dark:focus:border-blue-500 focus:outline-none focus:ring" type="email">
+            </div>
+
+            <div class="mt-4">
+                <div class="flex justify-between">
+                    <label class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-200" for="loggingPassword">Email Address</label>
+        
+                </div>
+
+                <input id="loggingPassword" class="block w-full px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-500 dark:focus:border-blue-500 focus:outline-none focus:ring" type="password">
+            </div>
+            <div class="mt-4">
+                <div class="flex justify-between">
+                    <label class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-200" for="loggingPassword">Message</label>
+                   
+                </div>
+
+                <input id="loggingPassword" class="block w-full px-4 py-2 text-gray-700 bg-white border border-gray-300 rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-500 dark:focus:border-blue-500 focus:outline-none focus:ring" type="password">
+            </div>
+            <div class="mt-8">
+                <button class="w-full px-4 py-2 tracking-wide text-white transition-colors duration-200 transform bg-gray-700 rounded hover:bg-gray-600 focus:outline-none focus:bg-gray-600">
+                    Send It!
+                </button>
+            </div>
+            
+            <div class="flex items-center justify-between mt-4">
+                <span class="w-1/5 border-b dark:border-gray-600 md:w-1/4"></span>
+
+                <a href="mailto:harrison@harrisonkugler.com" class="text-xs text-gray-500 uppercase dark:text-gray-400 hover:underline">Or Send Me An Email</a>
+                
+                <span class="w-1/5 border-b dark:border-gray-600 md:w-1/4"></span>
+            </div>
+        </div>
+    </div>
 </section>
 </template>
 <script>

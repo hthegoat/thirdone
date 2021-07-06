@@ -6,7 +6,7 @@
       <p class="lg:w-2/3 mx-auto leading-relaxed text-base dark:text-white">I love a good challenge and something I do to seperate myself is code my own website.</p>
     </div>
     <div class="flex flex-wrap -m-2">
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+      <div class="p-2 lg:w-1/4 md:w-1/2 w-full">
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <a href="https://nuxtjs.org/" target="_blank"><img alt="team" class="w- h-16 object-cover object-center flex-shrink-0 mr-4" src="~/assets/nxt.png"></a>
           <div class="flex-grow">
@@ -15,7 +15,7 @@
           </div>
         </div>
       </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+      <div class="p-2 lg:w-1/4 md:w-1/2 w-full">
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <a href="https://tailwindcss.com/" target="_blank"> <img alt="team" class="w- h-16 object-contain object-center flex-shrink-0 rounded-full mr-4" src="~/assets/tw.png"></a>
           <div class="flex-grow">
@@ -24,12 +24,21 @@
           </div>
         </div>
       </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+      <div class="p-2 lg:w-1/4 md:w-1/2 w-full">
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <a href="https://github.com/" target="_blank"></a><img alt="team" class="w- h-16  object-cover object-center flex-shrink-0 rounded-full mr-4" src="~/assets/gh.png"></a>
           <div class="flex-grow">
             <a href="https://github.com/" target="_blank"><h2 class="text-gray-900 title-font dark:text-white font-bold">GitHub</h2></a>
             <p class="text-gray-500 dark:text-white">I don't use version control in my day to day but its been a fun challenge learning how to fetch and pull and other simple git commands.</p>
+          </div>
+        </div>
+      </div>
+       <div class="p-2 lg:w-1/4 md:w-1/2 w-full">
+        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+          <a href="https://github.com/" target="_blank"></a><img alt="team" class="w- h-16  object-cover object-center flex-shrink-0 rounded-full mr-4" src="~/assets/gh.png"></a>
+          <div class="flex-grow">
+            <a href="https://github.com/" target="_blank"><h2 class="text-gray-900 title-font dark:text-white font-bold">Unsplash</h2></a>
+            <p class="text-gray-500 dark:text-white">All images on this site are available for free download on my Unsplash profile.</p>
           </div>
         </div>
       </div>

@@ -57,6 +57,12 @@
       IconDark,
       IconSepia
     },
+    asyncData() { 
+      return {
+        rendering: process.server ? 'server' : 'client' 
+      }
+      
+    },
     data() {
       return {
         colors: ['light', 'dark', 'sepia']
