@@ -16,8 +16,9 @@
 </template>
 <style lang="postcss">
 .h1 {
-  dark:text-white 
-}  
+  dark-mode: text-white;
+}
+
 </style>
 <script>
 export default {

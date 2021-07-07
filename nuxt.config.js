@@ -1,5 +1,14 @@
 export default {
-
+  colorMode: {
+    preference: 'system', // default value of $colorMode.preference
+    fallback: 'light', // fallback value if not system preference found
+    hid: 'nuxt-color-mode-script',
+    globalName: '__NUXT_COLOR_MODE__',
+    componentName: 'ColorScheme',
+    classPrefix: '',
+    classSuffix: '-mode',
+    storageKey: 'nuxt-color-mode'
+  },
   
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -10,9 +19,6 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-
-
-// On page load or when changing themes, best to add inline in `head` to avoid FOUC
 
 
     title: 'Harrison Kugler',
