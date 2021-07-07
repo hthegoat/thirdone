@@ -4,35 +4,35 @@
  
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
-        <div class="bg-gray-100 dark:bg-gray-500 p-6 rounded-lg">
+        <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-top mb-6" src="~/assets/about/ent.jpg" alt="content">
         
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-4 dark:text-white">Entrepreneur 💪</h2>
-          <p class="leading-relaxed text-base dark:text-white">From the age of 14 when I started a local computer repair business, I have always been entrepreneurial minded.</p>
+          <h2 class="text-xl text-gray-900 font-medium title-font mb-4 dark:text-gray-600">Entrepreneur 💪</h2>
+          <p class="leading-relaxed text-base dark:text-gray-500">From the age of 14 when I started a local computer repair business, I have always been entrepreneurial minded.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
-        <div class="bg-gray-100 dark:bg-gray-500 p-6 rounded-lg">
+        <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/about/btc.jpg" alt="content">
           
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-4 dark:text-white">Cryptocurrency 🚀</h2>
-          <p class="leading-relaxed text-base dark:text-white">I fell in love with crypto late 2016 and consider myself both an enthusiast and investor.</p>
+          <h2 class="text-xl text-gray-900 font-medium title-font mb-4 dark:text-gray-600">Cryptocurrency 🚀</h2>
+          <p class="leading-relaxed text-base dark:text-gray-500">I fell in love with crypto late 2016 and consider myself both an enthusiast and investor.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
-        <div class="bg-gray-100 dark:bg-gray-500 p-6 rounded-lg">
+        <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/about/coding.JPG" alt="content">
           <h3 cla
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-4 dark:text-white">Programming 💻</h2>
-          <p class="leading-relaxed text-base dark:text-white">Although not something I am great at, I dabble with coding a few times a year. This website was built using Nuxt and TailwindCSS.</p>
+          <h2 class="text-xl text-gray-900 font-medium title-font mb-4 dark:text-gray-600">Programming 💻</h2>
+          <p class="leading-relaxed text-base dark:text-gray-500">Although not something I am great at, I dabble with coding a few times a year. This website was built using Nuxt and TailwindCSS.</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
-        <div class="bg-gray-100 dark:bg-gray-500 p-6 rounded-lg">
+        <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
           <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/about/surf.jpg" alt="content">
           
-          <h2 class="text-lg text-gray-900 font-medium title-font mb-4 dark:text-white">Surfing 🏄‍♂️</h2>
-          <p class="leading-relaxed text-base dark:text-white">IYKYK Surfing is my release from the world. There is nothing better and I love being in the water whenever possible.</p>
+          <h2 class="text-xl text-gray-900 font-medium title-font mb-4 dark:text-gray-600">Surfing 🏄‍♂️</h2>
+          <p class="leading-relaxed text-base dark:text-gray-500">IYKYK Surfing is my release from the world. There is nothing better and I love being in the water whenever possible.</p>
         </div>
       </div>
     </div>
