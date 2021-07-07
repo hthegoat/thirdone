@@ -35,8 +35,9 @@
       </div>
        <div class="p-2 lg:w-1/4 md:w-1/2 w-full">
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <a href="https://github.com/" target="_blank"></a><img alt="team" class="w- h-16  object-cover object-center flex-shrink-0 rounded-full mr-4" src="~/assets/gh.png"></a>
+          <a href="https://github.com/" target="_blank"></a><img alt="team" class="dark:text-white w- h-16  object-contain object-center flex-shrink-0  mr-4" src="~/assets/unsplash.svg"></a>
           <div class="flex-grow">
+
             <a href="https://github.com/" target="_blank"><h2 class="text-gray-900 title-font dark:text-white font-bold">Unsplash</h2></a>
             <p class="text-gray-500 dark:text-white">All images on this site are available for free download on my Unsplash profile.</p>
           </div>

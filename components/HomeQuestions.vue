@@ -2,7 +2,7 @@
     <section class="text-gray-600 body-font">
   <div class="container px-5 py-6 mx-auto">
     <div class="text-center mb-20">
-      <h1 class="sm:text-3xl text-2xl font-bold text-center title-font text-gray-900 dark:text-white mb-4">Do You Need A: </h1>
+      <h1 class="sm:text-3xl text-2xl font-bold text-center title-font text-gray-900 dark:text-white mb-4">Do You Need: </h1>
      
     </div>
     <div class="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
@@ -12,7 +12,7 @@
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class=" dark:text-white title-font font-medium">Experienced Paid Media Expert with over $500k spent for small businesses, startups, and personal brands?</span>
+          <span class=" dark:text-white title-font font-medium">An Experienced Paid Media Expert to run your ads?</span>
         </div>
       </div>
       <div class="p-2 sm:w-1/2 w-full">
@@ -30,7 +30,7 @@
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="dark:text-white title-font font-medium">To work with someone besides an agency that can provide a more intimate service that actually moves the needle?</span>
+          <span class="dark:text-white title-font font-medium">A content creation plan without spending thousands on content?</span>
         </div>
       </div>
       <div class="p-2 sm:w-1/2 w-full">
@@ -39,7 +39,7 @@
             <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
             <path d="M22 4L12 14.01l-3-3"></path>
           </svg>
-          <span class="dark:text-white title-font font-medium">A data driven marketer with experience in retargetting, attribution, and conversion strategy?</span>
+          <span class="dark:text-white title-font font-medium">To Start Marketing...? Don't be shy, I welcome all newcomers and social media newbs. <a class="underline" href="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view" target="_blank"> Read more about my full scale capabilities here.</a> </span>
         </div>
       </div>
       
