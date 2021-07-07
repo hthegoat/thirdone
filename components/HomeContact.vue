@@ -9,7 +9,7 @@
     <form action="https://getform.io/f/2a956545-1194-4d2c-bfdd-72b9b157032e" method="POST">
       <div class="flex flex-wrap -m-2">  
         <div class="p-2 w-1/2">
-        
+ 
 
           <div class="relative">
             <label for="name" class="leading-7 text-sm text-gray-600 dark:text-white">Name</label>
@@ -29,7 +29,7 @@
           </div>
         </div>
         <div class="p-2 w-full">
-          <button class="flex mx-auto text-white font-bold bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Send It</button>
+          <button class="flex mx-auto dark:bg-indigo-700 dark-hover:bg-indigo-800 text-white font-bold bg-indigo-500 border-0 py-2 px-8 transition transform duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 focus:outline-none hover:bg-indigo-600 rounded text-lg">Send It</button>
         </div>
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
           <a class="text-indigo-500" href="mailto:harrison@harrisonkugler.com">harrison@harrisonkugler.com</a>

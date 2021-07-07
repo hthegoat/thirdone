@@ -6,9 +6,11 @@
       <NuxtLink class="mr-5 hover:text-gray-900" to="/">Home</NuxtLink>
       <NuxtLink class="mr-5 hover:text-gray-900" to="about">About</NuxtLink>
       <NuxtLink class="mr-5 hover:text-gray-900" to="projects">Projects</NuxtLink>
-      <NuxtLink class="hover:text-gray-900" to="contact">Contact</NuxtLink>
+      <NuxtLink class="mr-5 hover:text-gray-900" to="services">Services</NuxtLink>
+      <NuxtLink class="mr-5 hover:text-gray-900" to="contact">Contact</NuxtLink>
+
     </nav>
-    <a href="/" class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
+    <a href="/" class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 mt-4 md:mb-0">
       
       <span class="transition transform duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 ml-3 font-bold text-3xl dark:text-white">Harrison Kugler</span>
     </a>

@@ -17,6 +17,7 @@
 <style lang="postcss">
 .h1 {
   dark-mode: text-white;
+  sepia-mode: text-black;
 }
 
 </style>

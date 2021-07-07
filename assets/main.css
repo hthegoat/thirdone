@@ -14,7 +14,7 @@
   
   .dark-mode {
     --color: #ebf4f1;
-    --color-primary: #41b38a;
+    --color-primary: #5d54dd;
     --color-secondary: #fdf9f3;
     --bg: #091a28;
     --bg-secondary: #071521;
@@ -27,6 +27,7 @@
     --bg: #f1e7d0;
     --bg-secondary: #eae0c9;
     --border-color: #ded0bf;
+    
   }
   
 
