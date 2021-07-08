@@ -2,12 +2,12 @@
    <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="text-center mb-20">
-      <h1 class="sm:text-3xl text-2xl font-medium text-center dark:text-white title-font text-gray-900 mb-4">What I Offer </h1>
+      <h1 class="sm:text-3xl text-2xl font-medium text-center dark:text-gray-300 title-font text-gray-900 mb-4">What I Offer </h1>
       
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-white sm:text-left">Paid Media</h2>
+        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-gray-300 sm:text-left">Paid Media</h2>
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <a>
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -47,7 +47,7 @@
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-white sm:text-left">Social Media</h2>
+        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-gray-300 sm:text-left">Social Media</h2>
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <a>
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -74,7 +74,7 @@
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-white sm:text-left">SEO</h2>
+        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-gray-300 sm:text-left">SEO</h2>
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <a>
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -101,7 +101,7 @@
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-white sm:text-left">Web Design</h2>
+        <h2 class="font-medium title-font tracking-widest text-gray-900 mb-4 text-sm text-center text-3xl dark:text-gray-300 sm:text-left">Web Design</h2>
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           <a>
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -128,7 +128,7 @@
         </nav>
       </div>
     </div>
-    <NuxtLink to="contact"><button class="flex mx-auto mt-16 text-white font-bold dark:bg-indigo-700 dark-hover:bg-indigo-800 bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Hire Me!</button></NuxtLink>
+    <NuxtLink to="contact"><button class="flex mx-auto mt-16 text-white font-bold dark:bg-gray-800 dark:text-indigo-600 dark-hover:bg-indigo-800 bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Hire Me!</button></NuxtLink>
   </div>
 </section>
 </template>
