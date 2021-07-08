@@ -14,9 +14,9 @@
       
       <span class="transition transform duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 ml-3 font-bold text-3xl dark:text-gray-300">Harrison Kugler</span>
     </a>
-    <div class="lg:w-2/5 inline-flex items-center lg:justify-end ml-5 mt-1 lg:ml-0">
+    <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 mt-1 lg:ml-0">
     <div class="m-2">
-   <div class="container items-center">
+   <div class="container">
     <ul>
       <li 
       v-for="color of colors" 
