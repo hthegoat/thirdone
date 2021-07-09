@@ -3,20 +3,22 @@
 <header class="text-gray-600 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <nav class="flex lg:w-2/5 flex-wrap items-center text-base font-semibold md:ml-auto">
-      <NuxtLink class="mr-5 hover:text-gray-900" to="/">Home</NuxtLink>
-      <NuxtLink class="mr-5 hover:text-gray-900" to="about">About</NuxtLink>
-      <NuxtLink class="mr-5 hover:text-gray-900" to="projects">Projects</NuxtLink>
-      <NuxtLink class="mr-5 hover:text-gray-900" to="services">Services</NuxtLink>
-      <NuxtLink class="mr-5 hover:text-gray-900" to="contact">Contact</NuxtLink>
-
+      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="about">About</NuxtLink>
+      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="projects">Projects</NuxtLink>
+      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="services">Services</NuxtLink>
+      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="contact">Contact</NuxtLink>
+      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="/">Home</NuxtLink>
     </nav>
     <a href="/" class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 mt-4 md:mb-0">
       
       <span class="transition transform duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 ml-3 font-bold text-3xl dark:text-gray-300">Harrison Kugler</span>
+    
+    
     </a>
-    <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 mt-1 lg:ml-0">
-    <div class="m-2">
-   <div class="container">
+
+<div class="lg:w-2/5 inline-flex lg:justify-end ml-5 mt-1 lg:ml-0 place-items-center">
+
+   <div class="items-center">
     <ul>
       <li 
       v-for="color of colors" 
@@ -30,14 +32,18 @@
       </li>
     </ul>
   </div>
-    </div>
-    <div class="items-center m-2">
-     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class= "transition transform duration-500 ease-in-out inline-flex items-center border-black border-2 bg-gray-100 dark:text-black dark:bg-indigo-600 dark:border-black
-       px-3 py-2 focus:outline-none hover:bg-indigo-600 hover:-translate-y-1 hover:scale-110 hover:text-white dark-hover:text-black rounded font-bold text-base m-2 md:m-1">Schedule A Call
-        <svg xmlns="http:www.w3.org/2000/svg" class="animate-pulse
+  
+    <div class="items-center m-1">
+     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class= "transition transform duration-500 ease-in-out inline-flex items-center border-black border-4 bg-gray-100 dark:text-black dark:bg-indigo-600 dark:border-black
+       px-3 py-2 focus:outline-none hover:bg-indigo-600 hover:-translate-y-1 hover:scale-110 hover:text-white dark-hover:text-white dark-hover:bg-indigo-600 rounded font-bold text-base ml-2 my-1 md:mb-2">
+       
+       <svg xmlns="http:www.w3.org/2000/svg" class="dark:text-black animate-pulse
           mx-2 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
         </svg>
+       
+       Schedule A Call
+        
       </button>
     </a>    
 </div>

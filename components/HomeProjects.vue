@@ -2,7 +2,7 @@
    <section class="text-gray-600 body-font">
   <div class="container px-5 py-6 mx-auto">
   <div class="text-center mt-10 mb-15">
-      <h1 class="sm:text-3xl text-2xl font-bold text-center title-font text-black dark:text-gray-300 mb-12">Check Out My Work 📄</h1>
+      <h1 class="sm:text-3xl text-2xl font-bold text-center title-font text-black dark:text-gray-300 mb-12">Read More About My Work 📄</h1>
        
     </div>
   

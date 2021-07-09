@@ -3,10 +3,13 @@
 
 <HomeHero />
 <HomeQuestions />
-<HomeProjects />
+<HomeText />
+<HomeContact />
+
 <HomeClientList />
 <HomeStack />
-<HomeContact />
+<HomeProjects />
+
 </div>
 </template>
 
