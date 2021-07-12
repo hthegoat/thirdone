@@ -3,11 +3,12 @@
 <header class="text-gray-600 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <nav class="flex lg:w-2/5 flex-wrap items-center text-base font-semibold md:ml-auto">
+      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="/">Home</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="about">About</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="projects">Projects</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="services">Services</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="contact">Contact</NuxtLink>
-      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="/">Home</NuxtLink>
+      
     </nav>
     <a href="/" class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 mt-4 md:mb-0">
       
@@ -124,7 +125,7 @@ p {
     cursor: pointer;
     padding: 7px;
     background-color: var(--bg-secondary);
-    border: 2px solid var(--border-color);
+    border: 4px solid var(--border-color);
     margin: 2px;
     border-radius: 5px;
     transition: all 0.1s ease;
