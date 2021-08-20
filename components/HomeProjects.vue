@@ -9,7 +9,7 @@
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
-         <a href="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view" target="_blank"> <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/bthhome.jpg" alt="Harrison Kugler Case Study">
+         <a href="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view" target="_blank"> <img class="h-auto rounded w-full object-cover object-center mb-6" src="~/assets/bthhome.jpg" alt="Harrison Kugler Case Study">
           <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font dark:text-indigo-700">CASE STUDY</h3>
           <h2 class="text-2xl text-black font-medium title-font mb-4 dark:text-gray-300">Bury The Hatchet </h2>
           <p class="leading-relaxed text-base dark:text-gray-400 text-md">A Full Marketing Analysis</p>
@@ -18,7 +18,7 @@
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
-        <a href="https://www.notion.so/hk93/Keystone-Case-Study-ca5db60e1d284b71842ab4aede10d4c9" target="_blank">  <img class="h-40 rounded w-full object-cover object-center mb-6" src="~/assets/keystone.jpg" alt="Harrison Kugler Case Study"> 
+        <a href="https://www.notion.so/hk93/Keystone-Case-Study-ca5db60e1d284b71842ab4aede10d4c9" target="_blank">  <img class="h-auto rounded w-full object-cover object-center mb-6" src="~/assets/keystone.jpg" alt="Harrison Kugler Case Study"> 
           <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font dark:text-indigo-700">CASE STUDY</h3>
           <h2 class="text-2xl text-gray-900 font-medium title-font mb-4 dark:text-gray-300">Keystone Roofing</h2>
           <p class="leading-relaxed text-base dark:text-gray-400">$7k spend for $110k+ Revenue Generated</p></a>

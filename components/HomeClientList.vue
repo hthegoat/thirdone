@@ -68,7 +68,7 @@
             <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C4D03AQH-_Qj1en6xlw/profile-displayphoto-shrink_200_200/0/1615432175019?e=1630540800&v=beta&t=4OMLrMFubAfQbmIVwPl1nUJ5Ru5m_kvt5Qq4Kh6WUCw" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900 dark:text-gray-300">Jenna Schuchardt</span>
-              <span class="text-gray-500 text-sm dark:text-gray-300">Communications Specialist</span>
+              <span class="text-gray-600 text-sm dark:text-gray-300">Communications Specialist</span>
             </span>
           </a>
         </div>
@@ -83,7 +83,7 @@
             <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C5603AQE-O0Fw3Rh2nw/profile-displayphoto-shrink_200_200/0/1517666297028?e=1630540800&v=beta&t=LARRcAHvbzR8WvwMC6IuzKV9RzjK36S8MSaoKkWBKAE" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900 dark:text-gray-300">Gerardo Campbell</span>
-              <span class="text-gray-500 text-sm dark:text-gray-300">Project Manager, Entrepreneur</span>
+              <span class="text-gray-600 text-sm dark:text-gray-300">Project Manager, Entrepreneur</span>
             </span>
           </a>
         </div>
@@ -101,7 +101,7 @@
             <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C4D03AQH-I7qmmY6vZw/profile-displayphoto-shrink_200_200/0/1516543644255?e=1630540800&v=beta&t=6KWPIyuYIXtbNcAKcIID7MD2gW6aCFf8lqtzZVNbfAQ" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900 dark:text-gray-300">Marty Parker</span>
-              <span class="text-gray-500 text-sm dark:text-gray-300">Business Owner</span>
+              <span class="text-gray-600 text-sm dark:text-gray-300">Business Owner</span>
             </span>
           </a>
         </div>
@@ -116,7 +116,7 @@
             <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C4E03AQFmaK6VMTHFsA/profile-displayphoto-shrink_200_200/0/1516180133830?e=1630540800&v=beta&t=aKszqnFf5r0adNLBnt4hWm5GW1_eisqHUdFv-NsyqIE" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900 dark:text-gray-300">David Riklan</span>
-              <span class="text-gray-500 text-sm dark:text-gray-300">Founder</span>
+              <span class="text-gray-600 text-sm dark:text-gray-300">Founder</span>
             </span>
           </a>
         </div>

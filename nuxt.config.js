@@ -25,13 +25,19 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-
-
-      {
-        hid: 'Harrison Kugler',
-        name: 'Harrison Kugler',
-        content: 'Harrison Kugler personal project',
-      },
+      
+      
+            {
+              hid: 'Harrison Kugler',
+              name: 'Harrison Kugler',
+              content: 'Harrison Kugler personal project',
+            },
+      
+            {
+              hid: 'description',
+              name: 'description',
+              content: 'Harrison Kugler Paid Social Expert',
+            },
       { hid: 'og:site_name', property: 'og:site_name', content: 'Harrison Kugler' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
@@ -115,7 +121,7 @@ export default {
   buildModules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [ '@nuxtjs/google-analytics', '@nuxtjs/color-mode', '@nuxtjs/svg' ],
+  modules: [ '@nuxtjs/google-analytics', '@nuxtjs/color-mode', '@nuxtjs/svg', '@nuxt/content', '@tailwindcss/typography'],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {}
