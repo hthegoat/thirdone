@@ -1,7 +1,7 @@
 <template>
     <section class="text-gray-600 body-font">
     <div class="text-center mt-10 py-12 mb-2">
-      <h1 class="sm:text-3xl text-2xl font-bold text-center title-font text-gray-900 dark:text-gray-300 mb-4">You're In Good Hands 🤝</h1>
+      <h1 class="text-5xl font-bold text-center title-font text-gray-900 dark:text-gray-300 mb-4">You're In Good Hands 🤝</h1>
     </div>
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4">

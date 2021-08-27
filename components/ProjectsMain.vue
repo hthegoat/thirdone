@@ -1,42 +1,53 @@
 <template lang="">
 <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
-    <div class="flex flex-wrap -mx-4 -mb-10 text-center">
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-128 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="~/assets/bthhome.jpg">
+ <div class="flex flex-col text-center w-full mt-10 mb-10">
+      <h1 class="sm:text-3xl text-xl font-medium title-font mb-4 text-gray-900">Some Projects I've Worked On</h1>
+      
+    </div
+  <div class="container px-5 py-24 mx-auto flex flex-wrap">
+
+    <div class="lg:w-2/3 mx-auto">
+      <div class="flex flex-wrap w-full bg-gray-100 py-32 px-10 relative mb-4">
+        <img alt="gallery" class="w-full object-cover h-full object-center block opacity-30 absolute inset-0" src="~/assets/bthhome.jpg">
+        <div class="text-center relative z-10 w-full">
+          <h2 class="text-4xl text-gray-900 font-medium title-font mb-2">Bury The Hatchet</h2>
+          <p class="leading-relaxed">From Zero to Hero</p>
+          <NuxtLink class="mt-3 text-indigo-500 inline-flex items-center" to="burythehatchet">Read More
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+              <path d="M5 12h14M12 5l7 7-7 7"></path>
+            </svg></NuxtLink>
+          </a>
         </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3 dark:text-white">Bury The Hatchet</h2>
-        <p class="leading-relaxed text-base dark:text-white">Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.</p>
-        <a href="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view" target="_blank"><button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded" path="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view">Read More</button>
-      </a></div>
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-128 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="~/assets/stressfactory.jpeg">
+      </div>
+      <div class="flex flex-wrap -mx-2">
+        <div class="px-2 w-1/2">
+          <div class="flex flex-wrap w-full bg-gray-100 sm:py-24 py-16 sm:px-10 px-6 relative">
+            <img alt="gallery" class="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="~/assets/stressfactory.jpeg">
+            <div class="text-center relative z-10 w-full">
+              <h2 class="text-xl text-gray-900 font-medium title-font mb-2">Shooting Stars</h2>
+              <p class="leading-relaxed">Skateboard +1 mustache fixie paleo lumbersexual.</p>
+              <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                  <path d="M5 12h14M12 5l7 7-7 7"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
         </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3 dark:text-white">Stress Factory Comedy Club</h2>
-        <p class="leading-relaxed text-base dark:text-white">Coming Soon</p>
-        <a href="https://www.notion.so/hk93/Stress-Factory-Case-Study-0e35a0bcae574c698a7e1eac4543a4f6" target="_blank"><button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded" >Read More</button>
-      </a></div>
-    </div>
-  </div>
-  <div class="container px-5 py-24 mx-auto">
-    <div class="flex flex-wrap -mx-4 -mb-10 text-center">
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-128 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="~/assets/keystone.jpg">
+        <div class="px-2 w-1/2">
+          <div class="flex flex-wrap w-full bg-gray-100 sm:py-24 py-16 sm:px-10 px-6 relative">
+            <img alt="gallery" class="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="~/assets/keystone.jpg">
+            <div class="text-center relative z-10 w-full">
+              <h2 class="text-xl text-gray-900 font-medium title-font mb-2">Bury The Hatchet</h2>
+              <p class="leading-relaxed">From Zero To </p>
+              <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                  <path d="M5 12h14M12 5l7 7-7 7"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
         </div>
-       <a href="https://www.notion.so/hk93/Keystone-Case-Study-ca5db60e1d284b71842ab4aede10d4c9" target="_blank"> <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3 dark:text-white">Keystone Roofing</h2>
-        <p class="leading-relaxed text-base dark:text-white">Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.</p>
-        <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded" path="https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view">Read More</button>
-     </a> </div>
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-128 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="https://images.unsplash.com/photo-1593505681742-8cbb6f44de25?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80">
-        </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3 dark:text-white">Coming Soon</h2>
-        <p class="leading-relaxed text-base">Coming Soon</p>
-        <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded" >Read More</button>
       </div>
     </div>
   </div>

@@ -8,7 +8,7 @@
   My mission is to help companies create value through digital platforms.
 </p>
  <p class="leading-relaxed text-xl font-bold text-gray-900 dark:text-gray-300 whitespace-pre-line">     
- In the past 3 years my advertising efforts generated $2.5 million in revenue for clients ranging from axe throwing venues, roofing companies, jewelers, and NFT startups. 
+ In the past 3 years my advertising efforts have generated $2.5 million in revenue for clients ranging from national chains, local businesses, e-commerce, and startups. 
 
 I am self motivated, accountable, data-driven, and truly enjoy the work I do. 
 

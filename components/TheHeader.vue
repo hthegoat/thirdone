@@ -2,11 +2,11 @@
 <section>
 <header class="text-gray-600 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-    <nav class="flex lg:w-2/5 flex-wrap items-center text-base font-semibold md:ml-auto">
+    <nav class="flex lg:w-2/5 flex-wrap items-center text-base font-semibold">
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="/">Home</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="about">About</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="projects">Projects</NuxtLink>
-      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="services">Services</NuxtLink>
+      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="services">Resume</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="contact">Contact</NuxtLink>
       
     </nav>
@@ -17,7 +17,7 @@
     
     </a>
 
-<div class="lg:w-2/5 inline-flex lg:justify-end ml-5 mt-1 lg:ml-0 place-items-center">
+<div class="lg:w-2/5 inline-flex lg:justify-end ml-5 mt-4 lg:ml-0 place-items-center">
 
    <div class="items-center">
     <ul>
@@ -35,7 +35,7 @@
   </div>
   
     <div class="items-center m-1">
-     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class= "transition transform duration-500 ease-in-out inline-flex items-center border-black border-4 bg-gray-100 dark:text-black dark:bg-indigo-600 dark:border-black
+     <a href="https://calendly.com/harrisonkug-1/quick-chat" target="_blank"> <button class= "transition transform duration-500 ease-in-out inline-flex items-center border-black border-4 bg-gray-100 dark:text-black dark:bg-indigo-600 dark:border-indigo-600
        px-3 py-2 focus:outline-none hover:bg-indigo-600 hover:-translate-y-1 hover:scale-110 hover:text-white dark-hover:text-white dark-hover:bg-indigo-600 rounded font-bold text-base ml-2 my-1 md:mb-2">
        
        <svg xmlns="http:www.w3.org/2000/svg" class="dark:text-black animate-pulse

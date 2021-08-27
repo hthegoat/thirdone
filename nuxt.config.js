@@ -103,7 +103,8 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     script: [{
-   
+      src: 'vue-youtube/dist/vue-youtube.js'
+
     }]
   },
 
@@ -112,16 +113,16 @@ export default {
 
   
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: ['~/plugins/vue-youtube.js'],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
+  buildModules: ['@nuxtjs/tailwindcss',],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [ '@nuxtjs/google-analytics', '@nuxtjs/color-mode', '@nuxtjs/svg', '@nuxt/content', '@tailwindcss/typography'],
+  modules: [ '@nuxtjs/google-analytics', '@nuxtjs/color-mode', '@nuxtjs/svg', '@nuxt/content', '@tailwindcss/typography',],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {}
