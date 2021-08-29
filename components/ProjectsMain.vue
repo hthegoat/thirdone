@@ -8,11 +8,11 @@
 
     <div class="lg:w-2/3 mx-auto">
       <div class="flex flex-wrap w-full bg-gray-100 py-32 px-10 relative mb-4">
-        <img alt="gallery" class="w-full object-cover h-full object-center block opacity-30 absolute inset-0" src="~/assets/bthhome.jpg">
+        <img alt="gallery" class="w-full object-cover h-full object-center block opacity-60 absolute inset-0" src="https://i.ibb.co/h9mTxDW/guywearingmask.jpg">
         <div class="text-center relative z-10 w-full">
-          <h2 class="text-4xl text-gray-900 font-medium title-font mb-2">Bury The Hatchet</h2>
-          <p class="leading-relaxed">From Zero to Hero</p>
-          <NuxtLink class="mt-3 text-indigo-500 inline-flex items-center" to="burythehatchet">Read More
+          <h2 class="text-6xl text-gray-900 font-bold title-font mb-2">Bury The Hatchet</h2>
+         
+          <NuxtLink class="mt-3 text-indigo-500 inline-flex items-center text-3xl font-bold" to="burythehatchet">Read More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg></NuxtLink>
@@ -24,12 +24,12 @@
           <div class="flex flex-wrap w-full bg-gray-100 sm:py-24 py-16 sm:px-10 px-6 relative">
             <img alt="gallery" class="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="~/assets/stressfactory.jpeg">
             <div class="text-center relative z-10 w-full">
-              <h2 class="text-xl text-gray-900 font-medium title-font mb-2">Shooting Stars</h2>
+              <h2 class="text-xl text-gray-900 font-medium title-font mb-2">Coming Soon</h2>
               <p class="leading-relaxed">Skateboard +1 mustache fixie paleo lumbersexual.</p>
-              <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
+              <NuxtLink class="mt-3 text-indigo-500 inline-flex items-center" to="keystone">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
+                </svg></NuxtLink>
               </a>
             </div>
           </div>
@@ -38,7 +38,7 @@
           <div class="flex flex-wrap w-full bg-gray-100 sm:py-24 py-16 sm:px-10 px-6 relative">
             <img alt="gallery" class="w-full object-cover h-full object-center block opacity-25 absolute inset-0" src="~/assets/keystone.jpg">
             <div class="text-center relative z-10 w-full">
-              <h2 class="text-xl text-gray-900 font-medium title-font mb-2">Bury The Hatchet</h2>
+              <h2 class="text-xl text-gray-900 font-medium title-font mb-2">Coming Soon</h2>
               <p class="leading-relaxed">From Zero To </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
