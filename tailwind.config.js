@@ -1,6 +1,23 @@
 module.exports = {
 
-  theme: {
+
+  
+
+  darkMode: 'class',
+
+    purge: ['./src/**/*.tsx'],
+    theme: {
+      darkSelector: '.dark-mode'
+    },
+    variants: {
+      backgroundColor: ["dark", "dark-hover", "dark-group-hover", "dark-even", "dark-odd", "hover", "responsive"],
+      borderColor: ["dark", "dark-focus", "dark-focus-within", "hover", "responsive"],
+      textColor: ["dark", "dark-hover", "dark-active", "hover", "responsive"]
+    },
+    plugins: [
+      require('tailwindcss-dark-mode')()
+    ],
+
     screens: {
       'sm': '640px',
       // => @media (min-width: 640px) { ... }
@@ -17,21 +34,5 @@ module.exports = {
       '2xl': '1536px',
       // => @media (min-width: 1536px) { ... }
     },
-  
-
-  darkMode: 'class',
-
-    purge: ['./src/**/*.tsx'],
-    theme: {
-      darkSelector: '.dark-mode'
-    },
-    variants: {
-      backgroundColor: ["dark", "dark-hover", "dark-group-hover", "dark-even", "dark-odd", "hover", "responsive"],
-      borderColor: ["dark", "dark-focus", "dark-focus-within", "hover", "responsive"],
-      textColor: ["dark", "dark-hover", "dark-active", "hover", "responsive"]
-    },
-    plugins: [
-      require('tailwindcss-dark-mode')()
-    ]
   }
-}
+

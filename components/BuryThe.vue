@@ -3,7 +3,7 @@
   <div class="container mx-auto flex px-5 py-12 items-center justify-center flex-col">
     <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src="https://i.ibb.co/R69hV92/th-31340404165-1560x1040.jpg">
     <div class="text-center lg:w-2/3 w-full">
-      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-extrabold text-gray-900">Working with Howard and Co I developed and implemented a robust full-stack marketing strategy. </h1>
+      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-extrabold text-gray-900 dark:text-gray-400">Working with Howard and Co I developed and implemented a robust full-stack marketing strategy. </h1>
       
     </div>
   </div>
@@ -30,7 +30,7 @@ competitive advantage we immediately had."</p>
         <div class="flex flex-wrap -mx-8">
             <div class="w-full px-8">
                 <div class="mb-12 lg:mb-0 pb-12 lg:pb-0 border-b lg:border-b-0">
-                    <h2 class="mb-4 text-3xl lg:text-4xl font-bold text-left font-heading dark:text-white">
+                    <h2 class="mb-4 text-3xl lg:text-4xl font-bold text-left font-heading dark:text-black">
                     Bury The Hatchet and its sister company Amazing Escape Room had 24 locations nationwide. They hired me to come in and formalize there Marketing Strategy, Content Creation, and Paid Social.
                     </h2>
                     <p class="pt-2 pb-8 text-xl font-medium text-left">
