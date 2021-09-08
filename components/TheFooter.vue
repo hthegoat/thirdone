@@ -34,6 +34,10 @@
           <li>
             <NuxtLink class="text-gray-600 hover:text-gray-800 dark:text-gray-300" to="contact">Contact</NuxtLink>
           </li>
+          <li>
+            <NuxtLink class="text-gray-600 hover:text-gray-800 dark:text-gray-300" to="Privacy">Privacy Policy/TOS</NuxtLink>
+          </li>
+      
         </nav>
       </div>
  
