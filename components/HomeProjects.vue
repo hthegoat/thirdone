@@ -1,44 +1,68 @@
-<template lang="">
-   <section class="text-gray-600 body-font">
-  <div class="container px-5 py-6 mx-auto">
-  <div class="text-center mt-10 mb-15">
-      <h1 class="sm:text-3xl text-2xl font-bold text-center title-font text-black dark:text-gray-300 mb-12">Read More About My Work 📄</h1>
-       
-    </div>
-  
-    <div class="flex flex-wrap -m-4">
-      <div class="xl:w-1/2 md:w-1/2 p-4">
-        <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
-         <NuxtLink to="burythehatchet"> <img class="h-auto rounded w-full object-cover object-center mb-6" src="https://i.ibb.co/h9mTxDW/guywearingmask.jpg" alt="Harrison Kugler Case Study">
-          <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font dark:text-indigo-700">CASE STUDY</h3>
-          <h2 class="text-2xl text-black font-medium title-font mb-4 dark:text-gray-300">Bury The Hatchet </h2>
-          <p class="leading-relaxed text-base dark:text-gray-400 text-md">A Full Marketing Analysis</p>
-          </NuxtLink>
-        </div>
-      </div>
-      <div class="xl:w-1/2 md:w-1/2 p-4">
-        <div class="bg-gray-100 dark:bg-gray-900 p-6 rounded-lg">
-        <NuxtLink to="keystone" target="_blank">  <img class="h-auto rounded w-full object-cover object-center mb-6" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/154605868_2859023444373242_4989975438370442250_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=2c4854&_nc_ohc=4b6rH7gkzWMAX8yRQsn&_nc_ht=scontent-lga3-1.xx&oh=2614f41f46e80537d7fbaade71e366ce&oe=61518324" alt="Harrison Kugler Case Study"> 
-          <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font dark:text-indigo-700">CASE STUDY</h3>
-          <h2 class="text-2xl text-gray-900 font-medium title-font mb-4 dark:text-gray-300">Keystone Roofing</h2>
-          <p class="leading-relaxed text-base dark:text-gray-400">$7k spend for $110k+ Revenue Generated</p></NuxtLink>
-        </div>
-      </div>
-     
-
-
-
-    </div>
-
-    
-  </div>
-</section>
+<template>
+	<section class="py-6 sm:py-12 bg-coolGray-100 text-coolGray-800">
+		<div class="container p-6 mx-auto space-y-8">
+			<div class="space-y-2 text-center">
+				<h2 class="text-3xl font-bold">Read More About My Work</h2>
+				
+			</div>
+			<div class="grid grid-cols-1 gap-x-4 gap-y-8 md:grid-cols-2 lg:grid-cols-4">
+				<article class="flex flex-col bg-coolGray-50">
+					<NuxtLink to="/burythehatchet" aria-label="Te nulla oportere reprimique his dolorum">
+						<img alt="Harrison Kugler Project #4" class="border-4 rounded-md border-black object-cover w-full h-52 bg-coolGray-500" src="https://i.ibb.co/R69hV92/th-31340404165-1560x1040.jpg">
+					</NuxtLink>
+					<div class="flex flex-col flex-1 p-6">
+						<NuxtLink to="/burythehatchet"></NuxtLink>
+						<NuxtLink to="/burythehatchet" class="text-xs tracking-wider uppercase hover:underline text-violet-600">Case Study</NuxtLink>
+						<h3 class="flex-1 py-2 text-lg font-semibold leading-snug">Bury The Hatchet</h3>
+						<div class="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-coolGray-600">
+							<span>June 1, 2021</span>
+							<span>Marketing</span>
+						</div>
+					</div>
+				</article>
+				<article class="flex flex-col bg-coolGray-50">
+					<NuxtLink to="/keystone" aria-label="Te nulla oportere reprimique his dolorum">
+						<img alt="Harrison Kugler Project #4" class="border-4 rounded-md border-black object-cover w-full h-52 bg-coolGray-500" src="https://i.ibb.co/RP6LzkD/168412935-2881821135426806-7230005200482607245-n.jpg">
+					</NuxtLink>
+					<div class="flex flex-col flex-1 p-6">
+						<NuxtLink to="/keystone" aria-label="Te nulla oportere reprimique his dolorum"></NuxtLink>
+						<NuxtLink to="/keystone" class="text-xs tracking-wider uppercase hover:underline text-violet-600">Case Study</NuxtLink>
+						<h3 class="flex-1 py-2 text-lg font-semibold leading-snug">Keystone Roofing</h3>
+						<div class="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-coolGray-600">
+							<span>August 2, 2021</span>
+							<span>Lead Generation</span>
+						</div>
+					</div>
+				</article>
+				<article class="flex flex-col bg-coolGray-50">
+					<NuxtLink to="#" aria-label="Harrison Kugler">
+						<img alt="Harrison Kugler Project #4" class="border-4 rounded-md border-black object-cover w-full h-52 bg-coolGray-500" src="https://i.ibb.co/L5KCx1G/o.jpg">
+					</NuxtLink>
+					<div class="flex flex-col flex-1 p-6">
+						<NuxtLink to="#" aria-label="Te nulla oportere reprimique his dolorum"></NuxtLink>
+						<NuxtLink to="#" class="text-xs tracking-wider uppercase hover:underline text-violet-600">Case Study</NuxtLink>
+						<h3 class="flex-1 py-2 text-lg font-semibold leading-snug">COMING SOON</h3>
+						<div class="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-coolGray-600">
+							<span>Ongoing Project</span>
+							<span>Paid Media</span>
+						</div>
+					</div>
+				</article>
+				<article class="flex flex-col bg-coolGray-50">
+					<NuxtLink to="#" aria-label="Te nulla oportere reprimique his dolorum">
+						<img alt="Harrison Kugler Project #4" class="border-4 rounded-md border-black object-cover w-full h-52 bg-coolGray-500" src="https://source.unsplash.com/user/harrisonkugler/204x204">
+					</NuxtLink>
+					<div class="flex flex-col flex-1 p-6">
+						<NuxtLink to="#" aria-label="Te nulla oportere reprimique his dolorum"></NuxtLink>
+						<NuxtLink to="#" class="text-xs tracking-wider uppercase hover:underline text-violet-600">Projects</NuxtLink>
+						<h3 class="flex-1 py-2 text-lg font-semibold leading-snug">COMING SOON</h3>
+						<div class="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-coolGray-600">
+							<span>Ongoing</span>
+							<span>2.4K views</span>
+						</div>
+					</div>
+				</article><!---->
+			</div>
+		</div>
+	</section>
 </template>
-<script>
-export default {
-    
-}
-</script>
-<style lang="">
-    
-</style>

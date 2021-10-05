@@ -5,8 +5,6 @@
     <nav class="flex lg:w-2/5 flex-wrap items-center text-base font-semibold">
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="/">Home</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="about">About</NuxtLink>
-      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="projects">Projects</NuxtLink>
-      <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="services">Resume</NuxtLink>
       <NuxtLink class="dark:text-gray-300 mr-5 hover:text-indigo-600" to="contact">Contact</NuxtLink>
       
     </nav>

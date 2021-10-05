@@ -29,9 +29,6 @@
             <NuxtLink class="text-gray-600 hover:text-gray-800 dark:text-gray-300" to="about">About</NuxtLink>
           </li>
           <li>
-            <NuxtLink class="text-gray-600 hover:text-gray-800 dark:text-gray-300" to="projects">Projects</NuxtLink>
-          </li>
-          <li>
             <NuxtLink class="text-gray-600 hover:text-gray-800 dark:text-gray-300" to="contact">Contact</NuxtLink>
           </li>
           <li>

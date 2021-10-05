@@ -2,7 +2,7 @@
    <section class="text-gray-600 body-font relative">
   <div class="container bg-gray-100 dark:bg-gray-900 px-5 py-6 mx-auto">
     <div class="flex flex-col text-center w-full mb-12">
-      <h1 class="sm:text-5xl text-5xl font-bold title-font mb-4 text-gray-900 dark:text-gray-300">Are you ready to chat? 😃 </h1>
+      <h1 class="sm:text-5xl text-5xl font-bold title-font mb-4 text-gray-900 dark:text-gray-300">Contact Me </h1>
       <p class="lg:w-2/3 mx-auto leading-relaxed text-base"></p>
     </div>
     <div class="lg:w-1/2 md:w-2/3 mx-auto">

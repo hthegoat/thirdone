@@ -49,7 +49,7 @@
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="~/assets/revo.png">
+          <img alt="ecommerce" class="object-contain object-center w-full h-full block" src="https://i.ibb.co/HCt6t4H/lxy-phili-logo.jpg">
         </a>
        
       </div>
@@ -65,7 +65,7 @@
           </svg>
           <p class="leading-relaxed mb-6 text-black font-medium text-lg dark:text-gray-300">Dedicated is the phrase that comes to mind when I think about Harrison. I’ve had the pleasure of working with Harrison over the past few months to rebuild a brand post Covid-19 shutdown. Above all, I was impressed with Harrison’s ability to turn limited resources into effective and engaging social media marketing content that heavily impacted metrics. Harrison would be a true asset for any position requiring expert social media marketing skills and efficient communication and I highly recommend him!</p>
           <a class="inline-flex items-center">
-            <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C4D03AQH-_Qj1en6xlw/profile-displayphoto-shrink_200_200/0/1615432175019?e=1630540800&v=beta&t=4OMLrMFubAfQbmIVwPl1nUJ5Ru5m_kvt5Qq4Kh6WUCw" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
+            <img alt="testimonial" src="https://i.ibb.co/7YKhBZd/1631113593598.jpg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900 dark:text-gray-300">Jenna Schuchardt</span>
               <span class="text-gray-600 text-sm dark:text-gray-300">Communications Specialist</span>
@@ -80,9 +80,10 @@
           </svg>
           <p class="leading-relaxed mb-6 text-black font-medium text-lg dark:text-gray-300 ">Efficient is what comes to mind when I think about Harrison. I’ve had the pleasure of working with Harrison on a website project of mine. Above all, I was impressed with his ability to understand what I needed and execute that task without the extra fluff. Harrison is a true asset for anyone looking for a self-motivated freelance marketing expert and it's without hesitation I recommend him.</p>
           <a class="inline-flex items-center">
-            <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C5603AQE-O0Fw3Rh2nw/profile-displayphoto-shrink_200_200/0/1517666297028?e=1630540800&v=beta&t=LARRcAHvbzR8WvwMC6IuzKV9RzjK36S8MSaoKkWBKAE" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
+            <img alt="testimonial" src="https://i.ibb.co/chKpC71/1517666297028.jpg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
-              <span class="title-font font-medium text-gray-900 dark:text-gray-300">Gerardo Campbell</span>
+              <span class="title-font font-medium text-gray-900 
+              dark:text-gray-300">Gerardo Campbell</span>
               <span class="text-gray-600 text-sm dark:text-gray-300">Project Manager, Entrepreneur</span>
             </span>
           </a>
@@ -98,7 +99,7 @@
           <p class="leading-relaxed mb-6 text-black font-medium text-lg dark:text-gray-300">Harrison was a resource to our marketing team while working for me on a few projects. His attention and data driven approach is unique, which gave us a tremendous advantage over the competition. I would recommend him highly to any team looking to improve there marketing performance!
 </p>
           <a class="inline-flex items-center">
-            <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C4D03AQH-I7qmmY6vZw/profile-displayphoto-shrink_200_200/0/1516543644255?e=1630540800&v=beta&t=6KWPIyuYIXtbNcAKcIID7MD2gW6aCFf8lqtzZVNbfAQ" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
+            <img alt="testimonial" src="https://i.ibb.co/8Nb1Y0z/1516543644255.jpg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900 dark:text-gray-300">Marty Parker</span>
               <span class="text-gray-600 text-sm dark:text-gray-300">Business Owner</span>
@@ -113,7 +114,7 @@
           </svg>
           <p class="leading-relaxed mb-6 text-black font-medium text-lg dark:text-gray-300">Harrison was essential to the team, and contributed significantly to the success of our company. He is very thorough in everything he does and can be depended upon to get the job done. Harrison assumed a leadership role in SelfGrowth.com inspiring and motivating his colleagues. Whenever I had a problem, there has never been a time Harrison has left me without a solution. I learned a great deal from Harrison. I thoroughly enjoyed working with him at SelfGrowth.com.</p>
           <a class="inline-flex items-center">
-            <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/C4E03AQFmaK6VMTHFsA/profile-displayphoto-shrink_200_200/0/1516180133830?e=1630540800&v=beta&t=aKszqnFf5r0adNLBnt4hWm5GW1_eisqHUdFv-NsyqIE" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
+            <img alt="testimonial" src="https://i.ibb.co/sWPrRdP/1516180133830.jpg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900 dark:text-gray-300">David Riklan</span>
               <span class="text-gray-600 text-sm dark:text-gray-300">Founder</span>
