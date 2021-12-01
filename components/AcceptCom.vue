@@ -23,7 +23,9 @@
             <h3 class="mb-4 text-xl font-semibold sm:text-center text-black sm:mb-6 sm:text-2xl">
               Fill Out This Form To Accept 
             </h3>
-            <form>
+            <form action="https://formspree.io/f/mjvlbjbk"
+            method="POST"
+            >
               <div class="mb-1 sm:mb-2">
                 <label for="name" class="inline-block mb-1 text-black font-medium">Name</label>
                 <input
